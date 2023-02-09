@@ -1,5 +1,5 @@
 # AIR-PV-dataset
-Photovoltaic panels dataset
+AIR-PV: A benchmark dataset for photovoltaic panel extraction in optical remote sensing imagery
 
 ## Download
 BaiduNetdisk: [https://pan.baidu.com/s/1kuYNu4fAZ53JvNcNAO46ag](https://pan.baidu.com/s/1kuYNu4fAZ53JvNcNAO46ag) password: rdze
